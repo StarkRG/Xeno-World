@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "FTB Beyond XW Custom",
-  "version": "1.8.1",
+  "name": "Xenoworld Reborn 2",
+  "version": "2.0",
   "author": "FTB",
   "projectID": 261783,
   "files": [
@@ -106,11 +106,6 @@
       "required": true
     },
     {
-      "projectID": 243822,
-      "fileID": 2400103,
-      "required": true
-    },
-    {
       "projectID": 223735,
       "fileID": 2401214,
       "required": true
@@ -123,11 +118,6 @@
     {
       "projectID": 250617,
       "fileID": 2390946,
-      "required": true
-    },
-    {
-      "projectID": 225635,
-      "fileID": 2415205,
       "required": true
     },
     {
@@ -147,17 +137,12 @@
     },
     {
       "projectID": 253729,
-      "fileID": 2415012,
+      "fileID": 2423623,
       "required": true
     },
     {
       "projectID": 231453,
       "fileID": 2310116,
-      "required": true
-    },
-    {
-      "projectID": 69162,
-      "fileID": 2396251,
       "required": true
     },
     {
@@ -168,11 +153,6 @@
     {
       "projectID": 231382,
       "fileID": 2417927,
-      "required": true
-    },
-    {
-      "projectID": 242818,
-      "fileID": 2410317,
       "required": true
     },
     {
@@ -252,7 +232,7 @@
     },
     {
       "projectID": 248020,
-      "fileID": 2408239,
+      "fileID": 2431063,
       "required": true
     },
     {
@@ -521,11 +501,6 @@
       "required": true
     },
     {
-      "projectID": 244940,
-      "fileID": 2421003,
-      "required": true
-    },
-    {
       "projectID": 245287,
       "fileID": 2334148,
       "required": true
@@ -593,11 +568,6 @@
     {
       "projectID": 237701,
       "fileID": 2370015,
-      "required": true
-    },
-    {
-      "projectID": 70631,
-      "fileID": 2396254,
       "required": true
     },
     {
@@ -776,11 +746,6 @@
       "required": true
     },
     {
-      "projectID": 74072,
-      "fileID": 2380816,
-      "required": true
-    },
-    {
       "projectID": 247496,
       "fileID": 2326170,
       "required": true
@@ -846,11 +811,6 @@
       "required": true
     },
     {
-      "projectID": 69163,
-      "fileID": 2396369,
-      "required": true
-    },
-    {
       "projectID": 245824,
       "fileID": 2375867,
       "required": true
@@ -866,11 +826,6 @@
       "required": true
     },
     {
-      "projectID": 222880,
-      "fileID": 2396623,
-      "required": true
-    },
-    {
       "projectID": 260912,
       "fileID": 2422079,
       "required": true
@@ -883,6 +838,81 @@
     {
       "projectID": 250898,
       "fileID": 2423923,
+      "required": true
+    },
+    {
+      "projectID": 227661,
+      "fileID": 2393692,
+      "required": true
+    },
+    {
+      "projectID": 227443,
+      "fileID": 2431587,
+      "required": true
+    },
+    {
+      "projectID": 223272,
+      "fileID": 2361752,
+      "required": true
+    },
+    {
+      "projectID": 268250,
+      "fileID": 2426694,
+      "required": true
+    },
+    {
+      "projectID": 260327,
+      "fileID": 2430708,
+      "required": true
+    },
+    {
+      "projectID": 244786,
+      "fileID": 2404432,
+      "required": true
+    },
+    {
+      "projectID": 256662,
+      "fileID": 2413810,
+      "required": true
+    },
+    {
+      "projectID": 74072,
+      "fileID": 2425964,
+      "required": true
+    },
+    {
+      "projectID": 222880,
+      "fileID": 2431585,
+      "required": true
+    },
+    {
+      "projectID": 69162,
+      "fileID": 2431584,
+      "required": true
+    },
+    {
+      "projectID": 70631,
+      "fileID": 2431588,
+      "required": true
+    },
+    {
+      "projectID": 69163,
+      "fileID": 2431594,
+      "required": true
+    },
+    {
+      "projectID": 243822,
+      "fileID": 2400103,
+      "required": true
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2429883,
+      "required": true
+    },
+    {
+      "projectID": 263048,
+      "fileID": 2408238,
       "required": true
     }
   ],
